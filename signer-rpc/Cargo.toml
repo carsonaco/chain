@@ -9,7 +9,7 @@ chain-core = { path = "../chain-core/" }
 signer-core = { path = "../signer-core/" }
 serde = { version = "1.0", features = ["derive"] }
 jsonrpc-http-server = "11.0"
-jsonrpc-derive = "10.1"
+jsonrpc-derive = "11.0"
 structopt = "0.2"
 failure = "0.1"
 quest = "0.3"
